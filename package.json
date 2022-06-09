@@ -1,0 +1,21 @@
+{
+    "name": "looking-glass-dark",
+    "displayName": "Looking Glass - Dark ",
+    "description": "BrittneyInBeta Looking Glass Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Looking Glass - Dark ",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Looking Glass - Dark -color-theme.json"
+            }
+        ]
+    }
+}
