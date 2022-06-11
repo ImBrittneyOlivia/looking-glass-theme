@@ -1,13 +1,23 @@
-# README
-## This is the README for your extension "looking-glass-dark"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## Looking Glass - inspired by Alice in Wonderland
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Installation
+1. Open the extensions sidebar on Visual Studio Code
+2. Search for BrittneyInBeta
+3. Click Cypher
+4. Click Install 
+5. Click Reload to reload your editor or Set to set as theme 
+5. Enjoy 
 
-**Enjoy!**
+⭐⭐⭐⭐⭐ Rate first-stars 😜️
+
+---
+### Preview:
+
+<img width="100" alt="code theme preview 1" src="https://user-images.githubusercontent.com/43420527/173171614-3509fc78-55a0-4a26-9b46-1c6c20b80ddb.png">
+
+<img width="100" alt="code theme preview 2" src="https://user-images.githubusercontent.com/43420527/173171617-ef7387ac-e270-4566-a849-cd9044f60696.png">
+
+<img width="100" alt="code theme preview 3" src="https://user-images.githubusercontent.com/43420527/173171619-cf5474ab-ec29-48da-93c3-c75f2f1fe1ca.png">
+
+<img width="100" alt="code theme preview 4" src="https://user-images.githubusercontent.com/43420527/173171620-2214a099-eb1c-4273-9a93-0500f2474b2f.png">
