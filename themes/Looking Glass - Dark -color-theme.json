@@ -20,7 +20,8 @@
 		"input.placeholderForeground":"#eeffff", 
 		"inputOption.activeBorder": "#CCA43B", 
 		"editorGroup.border": "#81682b6a", 
-		"editorGroup.dropBackground":"#e986a084"
+		"editorGroup.dropBackground":"#e986a084", 
+		"statusBar.background":"#e986a0"
 	},
 	"tokenColors": [
 		{
@@ -28,7 +29,7 @@
 			"scope": [
 				"comment",
 				"punctuation.definition.comment"
-			],
+			],	
 			"settings": {
 				"fontStyle": "italic",
 				"foreground": "#a7a7a7"
