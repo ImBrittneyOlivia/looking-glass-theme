@@ -20,7 +20,7 @@
     ],
     "icon":"Logo.png", 
     "galleryBanner": {
-        "color": #e986a0, 
+        "color": "#e986a0", 
         "theme": "dark"
     },
     "engines": {
