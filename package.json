@@ -18,6 +18,11 @@
     "brittneyinbeta theme",
     "brittneyinbeta dark theme"
     ],
+    "icon":"Logo.png", 
+    "galleryBanner": {
+        "color": #e986a0, 
+        "theme": "dark"
+    },
     "engines": {
         "vscode": "^1.67.0"
     },
